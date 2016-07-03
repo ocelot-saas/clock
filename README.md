@@ -1,4 +1,4 @@
-# Clock [![Build Status](https://travis-ci.org/silver-saas/clock.svg?branch=master)](https://travis-ci.org/silver-saas/clock) [![Coverage Status](https://coveralls.io/repos/github/silver-saas/clock/badge.svg?branch=master)](https://coveralls.io/github/silver-saas/clock?branch=master)
+# Clock [![Build Status](https://travis-ci.org/ocelot-saas/clock.svg?branch=master)](https://travis-ci.org/ocelot-saas/clock) [![Coverage Status](https://coveralls.io/repos/github/ocelot-saas/clock/badge.svg?branch=master)](https://coveralls.io/github/ocelot-saas/clock?branch=master)
 
 Datetime setup useful for IoC usage. Inspired by Dart-quiver's Clock.
 
