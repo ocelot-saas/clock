@@ -16,7 +16,7 @@ def readme():
 
 setup(
     name='clock',
-    version='0.0.1',
+    version='0.0.2',
     description='Datetime setup useful for IoC usage. Inspired by Dart-quiver\'s Clock.',
     long_description=readme(),
     keywords='system clock datetime time',
