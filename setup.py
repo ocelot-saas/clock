@@ -16,7 +16,7 @@ def readme():
 
 setup(
     name='clock',
-    version='0.0.2',
+    version='0.0.3',
     description='Datetime setup useful for IoC usage. Inspired by Dart-quiver\'s Clock.',
     long_description=readme(),
     keywords='system clock datetime time',
@@ -28,7 +28,7 @@ setup(
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
     install_requires=[
-        'pytz==2015.7',
+        'pytz==2016.4',
         # For testing
         'tabletest3>=1,<2',
         ],
