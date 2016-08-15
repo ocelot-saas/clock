@@ -1,3 +1,7 @@
 --index-url https://pypi.python.org/simple/
 
--e .
+# Duplicated from setup.py.
+pytz==2016.4
+
+# Duplicated from setup.py, for testing.
+tabletest3>=1,<2
