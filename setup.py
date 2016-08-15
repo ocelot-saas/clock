@@ -16,7 +16,7 @@ def readme():
 
 setup(
     name='clock',
-    version='0.0.4',
+    version='0.0.5',
     description='Datetime setup useful for IoC usage. Inspired by Dart-quiver\'s Clock.',
     long_description=readme(),
     keywords='system clock datetime time',
@@ -33,6 +33,8 @@ setup(
     ],
     test_suite='tests',
     tests_require=[
+        'coverage>=4,<5',
+        'coveralls>=1,<2',
         'tabletest3>=1,<2',
     ],
     include_package_data=True,
